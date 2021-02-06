@@ -7,18 +7,6 @@ Vipprofilecode
 </head>
 <body>
 
-   
-
-
-	
-
-	<img class="img1 "src="shezan.jpg" alt="shezan not fount" >
-
-	<h1>RAHMAN ZAYED SHEZAN</h1>
-
-	<h3 style="text-align:center">If you don’t build your dream, someone will hire you to build their dream 🦴 🦴
-	</h3>
-
  
 
 	<div class="div1">   
