@@ -12,7 +12,7 @@ Vipprofilecode
 
 	<h1>Welcome to Rahman Zayed shezan profile </h1>
 
-	 <img class="img1" src="shezan.jpg" alt="Girl in a jacket" width="500" height="600">
+	 <img class="img1" src="shezan.jpg" alt="Girl in a jacket">
 
 	<h1>RAHMAN ZAYED SHEZAN</h1>
 
