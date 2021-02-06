@@ -45,7 +45,7 @@ p {
   float: left;
   width: 50%;
   padding: 15px 15px;
-  height: 90%;
+  min-height: 860px;
  
   background-color:red;
 } 
